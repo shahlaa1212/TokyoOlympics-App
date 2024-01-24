@@ -21,7 +21,7 @@ https://streamable.com/9c5xm9
  1️⃣. Clone the repository:
 
  ```bash
-  git clone https://github.com/shahlaa1212/hurry_app_twitch_clone.git
+  git clone https://github.com/shahlaa1212/Task_TokyoOlympicsApp_TheChance2.git
  ```
 
 2️⃣. Open the project in Android Studio.
