@@ -16,9 +16,9 @@ https://streamable.com/9c5xm9
 
 🔘 CSV file
 
-# 🔧 Installation Guide ✔️
+# ✔️ Installation Guide 🔧
 
- Clone the repository:
+ 1️⃣. Clone the repository:
 
  ```bash
   git clone https://github.com/shahlaa1212/hurry_app_twitch_clone.git
