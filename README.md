@@ -42,7 +42,7 @@ This app View all games specific Tokyo olympice show result in sample ui
 
 ## 🙏 Contributing 🫱🏼‍🫲🏻
 
-Contributions are welcome! If you'd like to contribute to the project, please follow the [Contribution Guidelines](CONTRIBUTING.md).
+Contributions are welcome! If you'd like to contribute to the project.
 
 
 
