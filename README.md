@@ -5,14 +5,6 @@
 # ⚽️ Tokyo Olympics App ⛹️
 Welcome to the Tokyo Olympics App specific TASK The Chance 2 Week 7
 
-## 📸 Preview
-<p align="center">
-<img width="201" alt="picture_TokyoOlympicsApp" src="https://github.com/shahlaa1212/Task_TokyoOlympicsApp_TheChance2/assets/74646502/fa1bf57a-c2a0-4a9b-be1f-ca0681bae1aa" />
-</p>
-
-## 📽 Demo
-https://streamable.com/7qsz9c
-
 ## 💫 Overview
 This app View all games specific Tokyo olympice show result in sample ui 
 
@@ -25,6 +17,14 @@ This app View all games specific Tokyo olympice show result in sample ui
 🔘 RecyclerView
 
 🔘 CSV file
+
+## 📸 Preview
+<p align="center">
+<img width="201" alt="picture_TokyoOlympicsApp" src="https://github.com/shahlaa1212/Task_TokyoOlympicsApp_TheChance2/assets/74646502/fa1bf57a-c2a0-4a9b-be1f-ca0681bae1aa" />
+</p>
+
+## 📽 Demo
+https://streamable.com/7qsz9c
 
 ## 🛠 Installation Guide 
 
